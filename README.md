@@ -2,8 +2,12 @@
 
 ![Banner (claro)](https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/42ZIP_urduliz.png)
 
+- 👨‍💻 I'm studying in [42 Urduliz](https://www.42urduliz.com/)
 
-### **Mi recorrido ZIP en 42 Urduliz**
+- 📫 How to reach me [beatriz.lamiquizdauden@gmail.com](beatriz.lamiquizdauden@gmail.com)
+
+
+### **My ZIP projects in 42**
 <!--
 **beatriangu/beatriangu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
