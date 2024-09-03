@@ -53,15 +53,6 @@ Email: beatriz.lamiquizdauden@gmail.com
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   </a>
-  <a href="https://www.ajax.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg" alt="ajax" width="40" height="40"/>
-  </a>
-  <a href="https://websockets.readthedocs.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/websockets/websockets-icon.svg" alt="websockets" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/chartjs/chartjs-icon.svg" alt="chartjs" width="40" height="40"/>
-  </a>
 </p>
 
 
