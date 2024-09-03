@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Bea</h1>
 
-![Banner (claro)](https://raw.githubusercontent.com/inakilastra/inakilastra/main/images/42ZIP_urduliz.png)
+![Banner (claro)](https://raw.githubusercontent.com/belamiqu/main/images/42ZIP_urduliz.png)
 
 - 👨‍💻 I'm studying in [42 Urduliz](https://www.42urduliz.com/)
 
-## ▪️ See my 42cursus progress ↙️ 
+## ▪️ See my 42 ZIP cursus progress ↙️ 
 
 ◦ [42cursus progress](https://github.com/beatriangu)
 
