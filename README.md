@@ -6,7 +6,7 @@
 
 ## ▪️ See my 42cursus progress ↙️ 
 
-◦ [42cursus progress](https://github.com/gemartin99/42cursus)
+◦ [42cursus progress](https://github.com/beatriangu)
 
 ## ▪️ Contact me 📥
 
