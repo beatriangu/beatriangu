@@ -17,7 +17,6 @@ Email: beatriz.lamiquizdauden@gmail.com
 <a href='https://www.linkedin.com/in/gemartin99/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </p>
 
-## ▪️ Tech Stack
 <p align="left"> 
   <a href="https://www.python.org" target="blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -46,8 +45,25 @@ Email: beatriz.lamiquizdauden@gmail.com
   </a> 
   <a href="https://www.linux.org/" target="_blank"> 
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
-  </a>  
+  </a>
+  <!-- Nuevos iconos -->
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite3" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+  <a href="https://www.ajax.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ajax/ajax-original.svg" alt="ajax" width="40" height="40"/>
+  </a>
+  <a href="https://websockets.readthedocs.io/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/websockets/websockets-icon.svg" alt="websockets" width="40" height="40"/>
+  </a>
+  <a href="https://www.chartjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/chartjs/chartjs-icon.svg" alt="chartjs" width="40" height="40"/>
+  </a>
 </p>
+
 
 
 
