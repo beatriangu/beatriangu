@@ -6,7 +6,7 @@
 
 ## ▪️ See my 42 ZIP cursus progress ↙️ 
 
-◦ [42cursus progress](https://github.com/beatriangu)
+◦ [42cursus progress]([https://github.com/beatriangu?tab=repositories])
 
 ## ▪️ Contact me 📥
 
