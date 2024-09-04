@@ -6,6 +6,8 @@
 
 ## ▪️ See my 42 ZIP cursus progress ↙️ 
 
+![Holygraph](https://github.com/beatriangu/beatriangu/blob/main/Holygraph42.png)
+
 ◦ [42cursus progress](https://github.com/beatriangu?tab=repositories)
 
 ## ▪️ Contact me 📥
