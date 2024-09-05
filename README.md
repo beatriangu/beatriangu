@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bea!..a proud graduate of the first promotion .
-
+- 💬 Ask me about ...
 ![Banner Personalizado](https://github.com/beatriangu/beatriangu/blob/main/42ZIP_urduliz.png?raw=true)
 
 - 👨‍💻 I'm studying in [42 Urduliz](https://www.42urduliz.com/)
