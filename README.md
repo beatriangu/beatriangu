@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bea!..a proud graduate of the first cohort of the 42 Urduliz ZIP program.
+<h1 align="center">Hi 👋, I'm Bea!..a proud graduate of the first promotion .
 
 ![Banner Personalizado](https://github.com/beatriangu/beatriangu/blob/main/42ZIP_urduliz.png?raw=true)
 
