@@ -4,7 +4,7 @@ Hello! I'm Bea, a proud graduate of the first ZIP cohort at 42. My journey began
 
 One year later ; 2.160 hours, 22 projects submitted, 70 evaluations given, 45 received, and one exam passed (thanks to jmedina's coaching!!), and I have managed to top it all off with my final Django project.
 
-This achievement wouldn't have been possible without the help of Xabi Matute (Supercrack junior from 42), who guided me to find the right spot to place "Miss Daphne" among the apps in the `settings.py` configuration... and magic happened!
+This achievement wouldn't have been possible without the help of Xabi Matute (Supercrack junior from 42), who guided me to find the right spot to place "Miss Daphne" among the apps in the `settings.py` configuration... and magic🪄🌠  happened!
 
 I also want to thank each and every one of my peers (...there aren’t enough letters in the alphabet to name them all, but they are all in the students directory of sgoinfre for sure!) for their support, patience, and help. Because at 42, you are nothing alone. It's about people, brilliant minds, endless paths, diverse solutions, but above all, a passion for helping, sharing, and learning from others. There's a well-deserved rush when you finish a project, and even more so when others do.
 
