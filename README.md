@@ -1,3 +1,7 @@
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=beatriangu&label=Profile%20views&color=0eb456&style=flat" alt="beatriangu" /> 
+</p>
+
 # Hi 👋, I'm Bea! A proud graduate of the first ZIP promotion.
 
 Hello! I'm Bea, a proud graduate of the first ZIP cohort at 42. My journey began with the support of my project partner, Don Juan Sala (Master of the Universe in C), who suggested I should study what `write()` actually does...
