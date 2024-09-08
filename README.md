@@ -72,7 +72,12 @@ Email: beatriz.lamiquizdauden@gmail.com
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
-
+<table>
+<tr>
+<th align="left"> &nbsp; Essential Tools and Resources for 42 Students.</th>
+</tr>
+<tr>
+<td>
 
 
 
