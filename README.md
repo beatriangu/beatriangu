@@ -51,6 +51,10 @@ Email: beatriz.lamiquizdauden@gmail.com
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+  <!-- Markdown Icon -->
+  <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" alt="markdown" width="40" height="40"/>
+  </a>
   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a>
@@ -64,7 +68,6 @@ Email: beatriz.lamiquizdauden@gmail.com
   <a href="https://www.linux.org/" target="_blank"> 
     <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="40" />
   </a>
-  <!-- Nuevos iconos -->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite3" width="40" height="40"/>
   </a>
@@ -72,12 +75,6 @@ Email: beatriz.lamiquizdauden@gmail.com
     <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
   </a>
 </p>
-<table>
-<tr>
-<th align="left"> &nbsp; Essential Tools and Resources for 42 Students.</th>
-</tr>
-<tr>
-<td>
 
 
 
