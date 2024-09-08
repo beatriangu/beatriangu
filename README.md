@@ -57,19 +57,24 @@ DEVOPS
 
 FULL STACK DEVELOPMENT
 <p align="left"> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
   </a> 
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
   </a>
+  <!-- SQLite -->
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite3" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite3"/>
   </a>
+  <!-- PostgreSQL -->
   <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
   </a>
 </p>
+
 
 
 
