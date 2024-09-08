@@ -39,6 +39,8 @@ Email: beatriz.lamiquizdauden@gmail.com
 <a href="https://www.linkedin.com/in/bea-lamiquiz-2648b867/" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </p>
 
+## 🛠️ Languages and Tools
+
 ##### LANGUAGES
 <p align="left">
   <!-- HTML -->
