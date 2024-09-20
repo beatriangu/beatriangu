@@ -26,7 +26,9 @@ My feedback for the project: Outstanding 🚀
 
 ## ▪️ See my 42 ZIP cursus progress ↙️ 
 
-![Holygraph](https://github.com/beatriangu/beatriangu/blob/main/Holygraph42.png)
+<!-- ![Holygraph](https://github.com/beatriangu/beatriangu/blob/main/Holygraph42.png) -->
+
+![Holygraph](https://github.com/beatriangu/beatriangu/blob/main/Screenshot%20from%202024-09-20%2012-34-45.png)
 
 ◦ [42cursus progress](https://github.com/beatriangu?tab=repositories)
 
