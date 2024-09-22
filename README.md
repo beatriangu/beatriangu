@@ -6,7 +6,7 @@
 
 Hello! I'm Bea, a proud graduate of the first ZIP cohort at 42. My journey started with the encouragement of Don Juan Sala (Master of C), who suggested I delve into what write() really does..."
 
-One year later , after 2.160 hours, 22 projects submitted, 70 evaluations given, 45 received, and one exam passed (thanks to [Jesus Medina](https://github.com/medituri)'s coaching!!), and I capped it off with my final Django project.
+One year later , after 2,160 hours, 22 projects submitted, 70 evaluations given, 45 received, and one exam passed (thanks to [Jesus Medina](https://github.com/medituri)'s coaching!!), and I capped it off with my final Django project.
 
 This achievement wouldn't have been possible without the help of [Xabi Matute](https://github.com/XabierMatute) (Supercrack junior from 42), who guided me to find the right spot to place "Miss Daphne" among the apps in the `settings.py` configuration... and magic🪄🌠  happened!
 
