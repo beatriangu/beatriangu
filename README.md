@@ -4,9 +4,9 @@
 
 # Hi 👋, I'm Bea! A proud graduate of the first ZIP promotion.
 
-Hello! I'm Bea, a proud graduate of the first ZIP cohort at 42. My journey began with the support of my project partner, Don Juan Sala (Master of the Universe in C), who suggested I should study what `write()` actually does...
+Hello! I'm Bea, a proud graduate of the first ZIP cohort at 42. My journey started with the encouragement of Don Juan Sala (Master of C), who suggested I delve into what write() really does..."
 
-One year later ; 2.160 hours, 22 projects submitted, 70 evaluations given, 45 received, and one exam passed (thanks to [Jesus Medina](https://github.com/medituri)'s coaching!!), and I have managed to top it all off with my final Django project.
+One year later , after 2.160 hours, 22 projects submitted, 70 evaluations given, 45 received, and one exam passed (thanks to [Jesus Medina](https://github.com/medituri)'s coaching!!), and I capped it off with my final Django project.
 
 This achievement wouldn't have been possible without the help of [Xabi Matute](https://github.com/XabierMatute) (Supercrack junior from 42), who guided me to find the right spot to place "Miss Daphne" among the apps in the `settings.py` configuration... and magic🪄🌠  happened!
 
@@ -63,14 +63,24 @@ Email: beatriz.lamiquizdauden@gmail.com
 </p>
 
 ### 🖥️ Full Stack Development
+#### Frontend
 <p align="left">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite3"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
 </p>
+
+#### Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite3"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
+</p>
+
 
 
 
