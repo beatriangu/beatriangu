@@ -41,6 +41,8 @@ Email: beatriz.lamiquizdauden@gmail.com
 <a href="https://www.linkedin.com/in/bealamiquiz/" target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/></a>
 </p>
 
+## ▪️ Languages and Tools
+
 ### 🔧 Programming Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
