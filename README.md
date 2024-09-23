@@ -5,8 +5,7 @@
 # Hi 👋, I'm Bea!
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=A+proud+Software+Engineer+graduate+of+the+first+ZIP+promotion;Always+learning&center=true&width=700&height=50">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=A+proud+42+Zip+Student+|Software+Engineer%3BAnd+still+learning&center=true&width=700&height=50">
   </a>
 </p>
 
