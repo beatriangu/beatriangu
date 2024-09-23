@@ -13,7 +13,7 @@
 </p>
 
 
-Hello! I'm Bea, a proud graduate of the first ZIP cohort at 42. My journey started with the encouragement of Don Juan Sala (Master of C), who suggested I delve into what write() really does..."
+"Yesss! I just graduated from the first ZIP cohort at 42. My journey started with the encouragement of Don Juan Sala (Master of C), who suggested I delve into what write() really does..."
 
 One year later , after 2,160 hours, 22 projects submitted, 70 evaluations given, 45 received, and one exam passed (thanks to [Jesus Medina](https://github.com/medituri)'s coaching!!), and I capped it off with my final Django project.
 
