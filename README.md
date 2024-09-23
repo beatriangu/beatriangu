@@ -2,9 +2,9 @@
   <img src="https://komarev.com/ghpvc/?username=beatriangu&label=Profile%20views&color=0eb456&style=flat" alt="beatriangu" /> 
 </p>
 
-# Hi 👋, I'm Bea! <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?<p align="center">
+# Hi 👋, I'm Bea!
+
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?lines=A+proud+Software+Engineer+graduate+of+the+first+ZIP+promotion;Always+learning&center=true&width=700&height=50">
   </a>
