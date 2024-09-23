@@ -2,7 +2,12 @@
   <img src="https://komarev.com/ghpvc/?username=beatriangu&label=Profile%20views&color=0eb456&style=flat" alt="beatriangu" /> 
 </p>
 
-# Hi 👋, I'm Bea! A proud graduate of the first ZIP promotion.
+# Hi 👋, I'm Bea! <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=A+proud+Software+Engineer+graduate+of+the+first+ZIP+promotion;Always+learning&center=true&width=500&height=50">
+  </a>
+</p>
+
 
 Hello! I'm Bea, a proud graduate of the first ZIP cohort at 42. My journey started with the encouragement of Don Juan Sala (Master of C), who suggested I delve into what write() really does..."
 
