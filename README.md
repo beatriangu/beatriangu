@@ -8,7 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=A+proud+42+Zip+Student+|+Software+Engineer%3BAnd+still+learning&center=true&width=700&height=50">
 </a>
 
-
   </a>
 </p>
 
