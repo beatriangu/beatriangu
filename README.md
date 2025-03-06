@@ -67,6 +67,13 @@ Email: beatriz.lamiquizdauden@gmail.com
   <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="vim"/>
 </p>
 
+### 📦 Virtualización y Entornos Virtuales
+<p align="left">
+  <img src="https://img.shields.io/badge/VirtualEnv-FFDD00?style=for-the-badge&logo=python&logoColor=blue" alt="virtualenv"/>
+  <!-- Puedes reemplazar 'VirtualEnv' por la herramienta que utilices, por ejemplo, pipenv o poetry -->
+</p>
+
+
 ### 📚 Documentation
 <p align="left">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="markdown"/>
@@ -88,7 +95,9 @@ Email: beatriz.lamiquizdauden@gmail.com
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="django"/>
 </p>
+
 ### 🖥️ Sistemas Operativos
+
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="macOS"/>
