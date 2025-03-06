@@ -12,19 +12,15 @@
 </p>
 
 
-"Yesss! I just graduated from the first ZIP cohort at 42. My journey started with the encouragement of Don Juan Sala (Master of C), who suggested I delve into what write() really does..."
+One year and a half later, after 3,255 hours, 23 projects submitted, 100 evaluations provided, 48 evaluations received, and one exam passed, I concluded my journey on 11/03/2025 by crowning it with my Matcha project.
 
-One year later , after 2,160 hours, 22 projects submitted, 70 evaluations given, 45 received, and one exam passed (thanks to [Jesus Medina](https://github.com/medituri)'s coaching!!), and I capped it off with my final Django project.
+This achievement wouldn't have been possible without the help of each one of my peers (there aren’t enough letters in the alphabet to name them all, but they are all in the students directory of sgoinfre for sure!) for their support, patience, and assistance. At 42, you're never alone—it's about people, brilliant minds, endless paths, diverse solutions, and above all, a passion for helping, sharing, and learning from others. There's a well-deserved thrill when you finish a project, and an even greater one when others succeed too.
 
-This achievement wouldn't have been possible without the help of [Xabi Matute](https://github.com/XabierMatute) (Supercrack junior from 42), who guided me to find the right spot to place "Miss Daphne" among the apps in the `settings.py` configuration... and magic🪄🌠  happened!
-
-I also want to thank each and every one of my peers (...there aren’t enough letters in the alphabet to name them all, but they are all in the students directory of sgoinfre for sure!) for their support, patience, and help. Because at 42, you are nothing alone. It's about people, brilliant minds, endless paths, diverse solutions, but above all, a passion for helping, sharing, and learning from others. There's a well-deserved rush when you finish a project, and even more so when others do.
-
-I want to express my gratitude to all the people who have evaluated me, and in the final stage, to those 32 transcended ones, so poorly hidden on the 8th floor or behind their screens, but always with a smile, willing to evaluate me and even eager to teach me new things! 😊
-
-Also, a big thank you to the AMAZING Staff (personnel, senseis, and staff at Urduliz) for driving this project forward, for the energy they have invested, and for their constant support! 🙏
+I want to express my heartfelt gratitude to everyone who has extended a helping hand throughout this journey. Thank you for trusting me and welcoming me into the senseis team, which has allowed me to contribute to our community. A big thank you also to the AMAZING Staff—personnel, senseis, and staff at 42Urduliz—for driving this project forward with their energy and constant support. I would also like to thank 42 Network and Diputación Foral for believing in this project and giving me this opportunity. 🙏
 
 My feedback for the project: Outstanding 🚀
+
+
 
 
 
