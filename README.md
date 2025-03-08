@@ -1,4 +1,4 @@
-<p align="left"> 
+Bi<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=beatriangu&label=Profile%20views&color=0eb456&style=flat" alt="beatriangu" /> 
 </p>
 
@@ -16,7 +16,7 @@ One year and a half later, after 3,255 hours, 23 projects submitted, 100 evaluat
 
 This achievement wouldn't have been possible without the help of each one of my peers (there aren’t enough letters in the alphabet to name them all, but they are all in the students directory of sgoinfre for sure!) for their support, patience, and assistance. At 42, you're never alone—it's about people, brilliant minds, endless paths, diverse solutions, and above all, a passion for helping, sharing, and learning from others. There's a well-deserved thrill when you finish a project, and an even greater one when others succeed too.
 
-I want to express my heartfelt gratitude to everyone who has extended a helping hand throughout this journey. Thank you for trusting me and welcoming me into the senseis team, which has allowed me to contribute to our community. A big thank you also to the AMAZING Staff—personnel, senseis, and staff at 42Urduliz—for driving this project forward with their energy and constant support. I would also like to thank 42 Network and Diputación Foral for believing in this project and giving me this opportunity. 🙏
+I want to express my heartfelt gratitude to everyone who has extended a helping hand throughout this journey. Thank you for trusting me and welcoming me into the senseis team, which has allowed me to contribute to our community. A big thank you also to the AMAZING Staff—personnel, senseis, and staff at 42Urduliz—for driving this project forward with their energy and constant support. I would also like to thank 42 Network and Diputación Foral de Bizkaia y Fundación Telefónica for believing in this project and giving me this opportunity. 🙏
 
 My feedback for the project: Outstanding 🚀
 
