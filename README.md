@@ -1,4 +1,4 @@
-Bi<p align="left"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=beatriangu&label=Profile%20views&color=0eb456&style=flat" alt="beatriangu" /> 
 </p>
 
