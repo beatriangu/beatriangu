@@ -39,17 +39,18 @@ My feedback for the project: Outstanding 🚀
 ## ▪️ Contact me 📥
 
 <p align="left">
-  <a href='mailto:beatriz.lamiquizdauden@gmail.com' target="_blank">
-    <img alt='Gmail' src='https://img.shields.io/badge/Gmail-100000?style=flat&logo=Gmail&logoColor=white&labelColor=EA4335&color=EA4335'/>
+  <a href="mailto:beatriz.lamiquizdauden@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/beatriz.lamiquizdauden@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  
-  <a href='mailto:b.lamiquiz@hotmail.com' target="_blank">
-    <img alt='Hotmail' src='https://img.shields.io/badge/Hotmail-100000?style=flat&logo=Microsoft-Outlook&logoColor=white&labelColor=0078D4&color=0078D4'/>
+  &nbsp;
+  <a href="mailto:b.lamiquiz@hotmail.com" target="_blank">
+    <img alt="Hotmail" src="https://img.shields.io/badge/b.lamiquiz@hotmail.com-0078D4?style=flat&logo=microsoft-outlook&logoColor=white" />
   </a>
+</p>
 
-  
+<p align="left">
   <a href="https://www.linkedin.com/in/bealamiquiz/" target="_blank">
-    <img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=0A66C2&color=0A66C2'/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
