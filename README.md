@@ -203,4 +203,4 @@ Un profundo agradecimiento a:
 
 ---
 
-*Last updated: Enero 2025*
+*Last updated: Noviembre 2025*
