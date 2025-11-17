@@ -15,10 +15,10 @@
 **AI Product Owner** especializada en **IA Generativa & LLMs** con sólida base técnica en **Backend (Python/Django)**. Lidero proyectos con propósito, conectando tecnología, personas y resultados de impacto.
 
 ### 🚀 Mi trayectoria en números:
-- **3,255 horas** de formación intensiva en 42 Urduliz
-- **23 proyectos** completados con éxito
-- **100 evaluaciones** proporcionadas a peers
-- **48 evaluaciones** recibidas con feedback excepcional
+- **3,255 horas** de formación intensiva en 42 Urduliz  
+- **23 proyectos** completados con éxito  
+- **100 evaluaciones** proporcionadas a peers  
+- **48 evaluaciones** recibidas con feedback excepcional  
 - **Graduación**: 11/03/2025 con proyecto **Matcha** (AI & Backend)
 
 > *"En 42 nunca estás solo. Se trata de mentes brillantes, caminos diversos, soluciones infinitas y, sobre todo, una pasión por ayudar, compartir y aprender juntos."*
@@ -28,16 +28,18 @@
 ## 💼 Experiencia & Roles Actuales
 
 ### 🎓 **Mentora Técnica & Linker**
-- **42 Urduliz Bizkaia** - Acompañamiento a estudiantes en proyectos de C, Python y Backend
-- **Bizkaia con el Talento** - Conexión de talento tech con oportunidades
+- **42 Urduliz Bizkaia** – Acompañamiento a estudiantes en proyectos de **C, Python y Backend**
+- **Bizkaia con el Talento** – Conexión de talento tech con oportunidades y mentorización en comunidad
 
 ### 🚀 **Miembro activo**
-- **Lanzadera 69 – Anezka Getxo** - Emprendimiento e innovación tecnológica
+- **Lanzadera 69 – Anezka Getxo** – Emprendimiento e innovación tecnológica
+- **Networking y divulgación tecnológica** en ecosistema 42, SPRI y Bizkaia Enpresa Digitala
 
 ### 🤖 **Especialización**
-- **IA Generativa (LLMs & Transformers)** aplicada a salud, movilidad y educación
+- **IA Generativa (LLMs & Transformers)** aplicada a **salud, movilidad y educación**
 - **Backend Development** con Python, Django y Flask
-- **Product Ownership** con enfoque en soluciones AI-driven
+- **Product Ownership** con enfoque en **soluciones AI-driven**
+- **Data Strategy & Prompt Engineering** como puente entre negocio y tecnología
 
 ---
 
@@ -46,16 +48,16 @@
 ### 🌟 [Portfolio Completo en GitHub](https://github.com/beatriangu?tab=repositories)
 
 **Áreas de enfoque:**
-- 🏥 **Salud digital**: Aplicaciones de IA para diagnóstico y asistencia
-- 🚗 **Movilidad inteligente**: Optimización con ML y data science
-- 📚 **EdTech**: Plataformas educativas con IA generativa
-- 🔧 **Backend robusto**: APIs REST, bases de datos, arquitectura escalable
+- 🏥 **Salud digital**: Aplicaciones de IA para diagnóstico y asistencia  
+- 🚗 **Movilidad inteligente**: Optimización con ML y data science  
+- 📚 **EdTech**: Plataformas educativas con IA generativa  
+- 🔧 **Backend robusto**: APIs REST, bases de datos, arquitectura escalable  
 
 ### 📌 Tecnologías clave:
-- **IA**: LangChain, OpenAI API, Transformers, RAG, Fine-tuning
-- **Backend**: Django, Flask, PostgreSQL, SQLite, Docker
-- **DevOps**: Git, GitHub Actions, CI/CD, Bash scripting
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript
+- **IA**: LangChain, OpenAI API, Transformers, RAG, Fine-tuning  
+- **Backend**: Django, Flask, PostgreSQL, SQLite, Docker  
+- **DevOps**: Git, GitHub Actions, CI/CD, Bash scripting  
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript  
 
 ---
 
@@ -130,14 +132,14 @@
 ## 🎓 Formación & Certificaciones
 
 ### 📜 Certificaciones en IA Generativa
-- ✅ **Usos profesionales de la IA Generativa** (70h) - Bejob + IBM SkillsBuild
-- ✅ **Machine Learning y Data Science** - Python aplicado
-- ✅ **Inteligencia Artificial y Deep Learning** desde cero
-- ✅ **Curso Completo de IA Generativa**: ChatGPT, Midjourney y más
+- ✅ **Usos profesionales de la IA Generativa** (70h) – Bejob + IBM SkillsBuild  
+- ✅ **Machine Learning y Data Science** – Python aplicado  
+- ✅ **Inteligencia Artificial y Deep Learning** desde cero  
+- ✅ **Curso Completo de IA Generativa**: ChatGPT, Midjourney y más  
 
-### 🎯 42 Urduliz - Cursus ZIP
+### 🎯 42 Urduliz – Cursus ZIP  
 **Graduación**: Marzo 2025  
-**Proyecto final**: Matcha (AI & Backend Development)
+**Proyecto final**: Matcha (AI & Backend Development)  
 
 ![Holygraph 42](https://github.com/beatriangu/beatriangu/blob/main/Screenshot%20from%202025-03-10%2019-07-51.png)
 
@@ -147,11 +149,11 @@
 
 > **"Tecnología con propósito"**
 
-- 🤝 **Colaboración**: Creo en el poder del trabajo en equipo
-- 🚀 **Innovación**: Busco soluciones que generen impacto real
-- 📚 **Aprendizaje continuo**: La curiosidad impulsa mi desarrollo
-- 💡 **Mentoría**: Comparto conocimiento para construir comunidad
-- 🎯 **Excelencia técnica**: Calidad en cada línea de código
+- 🤝 **Colaboración** – Creo en el poder del trabajo en equipo  
+- 🚀 **Innovación** – Busco soluciones que generen impacto real  
+- 📚 **Aprendizaje continuo** – La curiosidad impulsa mi desarrollo  
+- 💡 **Mentoría** – Comparto conocimiento para construir comunidad  
+- 🎯 **Excelencia técnica** – Calidad en cada línea de código  
 
 ---
 
@@ -179,10 +181,10 @@
 
 ## 💬 Open to
 
-- 🤖 Proyectos de **IA Generativa & LLMs**
-- 🔧 Desarrollo **Backend** con Python/Django
-- 👥 **Mentoría técnica** en 42 Network
-- 🚀 Oportunidades como **AI Product Owner**
+- 🤖 Proyectos de **IA Generativa & LLMs**  
+- 🔧 Desarrollo **Backend** con Python/Django  
+- 👥 **Mentoría técnica** en 42 Network  
+- 🚀 Oportunidades como **AI Product Owner**  
 - 🌍 Colaboraciones en **proyectos de impacto social**
 
 ---
@@ -195,12 +197,13 @@
 
 ### 🙏 Agradecimientos
 
-Un profundo agradecimiento a:
-- **42 Network**, **42 Urduliz**, y todo su equipo de senseis y staff
-- **Diputación Foral de Bizkaia** y **Fundación Telefónica** por su apoyo
-- **Mis peers de 42** por su colaboración y aprendizaje mutuo
-- **La comunidad tech del País Vasco** por su acogida
+Un profundo agradecimiento a:  
+- **42 Network**, **42 Urduliz**, y todo su equipo de senseis y staff  
+- **Diputación Foral de Bizkaia** y **Fundación Telefónica** por su apoyo  
+- **Mis peers de 42** por su colaboración y aprendizaje mutuo  
+- **La comunidad tech del País Vasco** por su acogida  
 
 ---
 
 *Last updated: Noviembre 2025*
+
