@@ -5,11 +5,9 @@
 # Hi 👋, I'm Bea Lamiquiz
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI Product Owner | Generative AI & LLMs
-Product-minded Backend & Data Systems | Python • Django • ML
-Bridging Technology, Product and People
-=true&width=800&height=50&color=0eb456">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Product+Owner+%7C+Generative+AI+%26+LLMs;Product-minded+Backend+%26+Data+Systems+%7C+Python+-+Django+-+ML;Bridging+Technology,+Product+and+People&center=true&width=800&height=50&color=0eb456" />
 </a>
+
 
 ---
 
