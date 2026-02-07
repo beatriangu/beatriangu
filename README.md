@@ -15,7 +15,8 @@
 **AI Product Owner** especializada en **IA Generativa & LLMs**, con sólida base técnica en  
 **Backend (Python/Django)**.
 
-Diseño y lidero productos tecnológicos con propósito, conectando **negocio, datos, tecnología y personas** para generar **impacto real**.
+Diseño y lidero productos tecnológicos con propósito, conectando  
+**negocio, datos, tecnología y personas** para generar **impacto real**.
 
 ### 🚀 Mi trayectoria en números
 - **3.255 horas** de formación intensiva en 42 Urduliz  
@@ -42,6 +43,22 @@ Diseño y lidero productos tecnológicos con propósito, conectando **negocio, d
 - **Backend Development** con Python, Django y Flask
 - **Product Ownership** en soluciones **AI-driven**
 - **Data Strategy & Prompt Engineering** como puente entre negocio y tecnología
+
+---
+
+## 🌱 Producto en el mundo real
+
+### 🧘‍♀️ bchill.net (en desarrollo)
+Plataforma digital orientada al **bienestar, la desconexión consciente y la reducción del estrés**.
+
+Proyecto en fase activa de evolución donde aplico:
+- **Product discovery** y definición de MVP  
+- Priorización de features basada en **usuarios reales**  
+- Diseño de experiencia con foco en **impacto y sostenibilidad**  
+- Coordinación entre visión de negocio y decisiones técnicas  
+
+**Rol:** Product Owner / Product Builder  
+🌐 https://bchill.net
 
 ---
 
@@ -113,9 +130,6 @@ Diseño y lidero productos tecnológicos con propósito, conectando **negocio, d
 
 ### 🗺️ Mapa de recorrido completo en 42
 
-Visualización del recorrido completo de aprendizaje en 42 Urduliz:  
-fundamentos en C, sistemas, backend, data science, Django y proyecto final.
-
 ![Mapa de recorrido 42](https://github.com/beatriangu/beatriangu/blob/main/Screenshot%20from%202025-03-10%2019-07-51.png)
 
 ---
@@ -174,4 +188,5 @@ Gracias a **42 Network**, **42 Urduliz**, **Diputación Foral de Bizkaia**, **Fu
 ---
 
 *Last updated: February 2026*
+
 
