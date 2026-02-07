@@ -46,19 +46,29 @@ Diseño y lidero productos tecnológicos con propósito, conectando
 
 ---
 
-## 🌱 Producto en el mundo real
+## 🌱 Producto en el mundo real — bchill.net
 
-### 🧘‍♀️ bchill.net (en desarrollo)
-Plataforma digital orientada al **bienestar, la desconexión consciente y la reducción del estrés**.
+**bchill.net** es un producto digital propio, concebido como un espacio de calma,
+criterio y toma de decisiones conscientes en un entorno saturado de estímulos.
 
-Proyecto en fase activa de evolución donde aplico:
-- **Product discovery** y definición de MVP  
-- Priorización de features basada en **usuarios reales**  
-- Diseño de experiencia con foco en **impacto y sostenibilidad**  
-- Coordinación entre visión de negocio y decisiones técnicas  
+No nace desde la tecnología, sino desde el **problema**:
+la sobrecarga, la prisa y la falta de foco en productos y procesos actuales.
 
-**Rol:** Product Owner / Product Builder  
-🌐 https://bchill.net
+En bchill aplico:
+- **Pensamiento de producto** desde el discovery hasta la entrega
+- Diseño de experiencia clara, sin ruido
+- Priorización consciente: qué construir, qué automatizar y qué no
+- Uso de tecnología (e IA) solo cuando **tiene sentido y aporta valor real**
+
+El proyecto funciona como **plataforma demostrativa**:
+un lugar donde se ve cómo estructuro propuestas,
+cómo convierto ideas en sistemas claros
+y cómo conecto negocio, tecnología y experiencia de usuario.
+
+Rol: **Product Owner · Product Builder**
+Estado: **producto vivo, en evolución**
+Web: https://bchill.net
+
 
 ---
 
