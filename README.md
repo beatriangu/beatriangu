@@ -5,7 +5,10 @@
 # Hi 👋, I'm Bea Lamiquiz
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Product+Owner+%7C+IA+Generativa+%26+LLMs;Backend+Developer+%7C+Python/Django;Technical+Leader+%7C+42+Urduliz+Graduate;Mentora+y+Linker+en+Talento+Tech&center=true&width=800&height=50&color=0eb456">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI Product Owner | Generative AI & LLMs
+Product-minded Backend & Data Systems | Python • Django • ML
+Bridging Technology, Product and People
+=true&width=800&height=50&color=0eb456">
 </a>
 
 ---
@@ -129,7 +132,7 @@
 
 ---
 
-## 🎓 Formación & Certificaciones
+## 🎓 Formación aplicada a Producto, IA y Backend
 
 ### 📜 Certificaciones en IA Generativa
 - ✅ **Usos profesionales de la IA Generativa** (70h) – Bejob + IBM SkillsBuild  
@@ -164,10 +167,6 @@
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:beatriz.lamiquizdauden@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
   <a href="mailto:b.lamiquiz@hotmail.com" target="_blank">
     <img alt="Hotmail" src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
   </a>
@@ -181,11 +180,11 @@
 
 ## 💬 Open to
 
+- 🚀 Oportunidades como **AI Product Owner / Product Manager** 
 - 🤖 Proyectos de **IA Generativa & LLMs**  
 - 🔧 Desarrollo **Backend** con Python/Django  
 - 👥 **Mentoría técnica** en 42 Network  
-- 🚀 Oportunidades como **AI Product Owner**  
-- 🌍 Colaboraciones en **proyectos de impacto social**
+- 🌍 **Proyectos de impacto social**
 
 ---
 
