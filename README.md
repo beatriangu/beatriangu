@@ -35,8 +35,7 @@ Diseño y lidero productos tecnológicos con propósito, conectando **negocio, d
 - **Bizkaia con el Talento** – Conexión entre talento tecnológico y oportunidades reales
 
 ### 🚀 Comunidad & Ecosistema
-- **Lanzadera 69 – Anezka Getxo** – Emprendimiento e innovación
-- **Divulgación y networking** en el ecosistema 42, SPRI y Bizkaia Enpresa Digitala
+- **Divulgación y networking** en el ecosistema 42
 
 ### 🤖 Especialización
 - **IA Generativa (LLMs & Transformers)** aplicada a salud, movilidad y educación
