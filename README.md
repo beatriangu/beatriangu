@@ -19,24 +19,45 @@ Diseño y lidero productos tecnológicos con propósito, conectando
 **negocio, datos, tecnología y personas** para generar **impacto real**.
 
 ### 🚀 Mi trayectoria en números
-- **3.255 horas** de formación intensiva en 42 Urduliz  
-- **23 proyectos** desarrollados end-to-end  
-- **100 evaluaciones** realizadas a peers  
-- **48 evaluaciones** recibidas con feedback excelente  
-- **Graduación**: 11/03/2025 · Proyecto final **Matcha** (AI & Backend)
 
-> *“En 42 nunca estás solo: aprendizaje autónomo, colaboración constante y mejora continua.”*
+| 📚 Formación | 💻 Proyectos | 🤝 Peer Reviews | 📝 Recibidas | 🎓 Graduación |
+|:---:|:---:|:---:|:---:|:---:|
+| **3.255 horas** | **23 proyectos** | **100 evaluaciones** | **48 con feedback excelente** | **11/03/2025** |
+
+> *"En 42 nunca estás solo: aprendizaje autónomo, colaboración constante y mejora continua."*
+
+---
+
+## 🎓 42 Urduliz – Cursus ZIP
+
+<p align="left">
+  <a href="https://42urduliz.com/" target="_blank">
+    <img src="https://img.shields.io/badge/42-Urduliz_Bizkaia-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Urduliz" />
+  </a>
+  &nbsp;
+  <a href="https://www.42network.org/" target="_blank">
+    <img src="https://img.shields.io/badge/42-Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Network" />
+  </a>
+</p>
+
+**Graduación**: Marzo 2025 · **Proyecto final**: [**Matcha**](https://github.com/beatriangu?tab=repositories) *(AI & Backend Development)*
+
+### 🗺️ Mapa de recorrido completo en 42
+
+[![Mapa de recorrido 42](https://github.com/beatriangu/beatriangu/blob/main/Screenshot%20from%202025-03-10%2019-07-51.png)](https://42urduliz.com/)
+
+[![42 Urduliz Banner](https://github.com/beatriangu/beatriangu/blob/main/42ZIP_urduliz.png?raw=true)](https://42urduliz.com/)
 
 ---
 
 ## 💼 Experiencia & Roles Actuales
 
 ### 🎓 Mentora Técnica & Linker
-- **42 Urduliz Bizkaia** – Mentoría en proyectos de **C, Python y Backend**
-- **Bizkaia con el Talento** – Conexión entre talento tecnológico y oportunidades reales
+- **[42 Urduliz Bizkaia](https://42urduliz.com/)** – Mentoría en proyectos de **C, Python y Backend**
+- **[Bizkaia con el Talento](https://www.bizkaiatalentua.eus/)** – Conexión entre talento tecnológico y oportunidades reales
 
 ### 🚀 Comunidad & Ecosistema
-- **Divulgación y networking** en el ecosistema 42
+- **Divulgación y networking** en el ecosistema [42 Network](https://www.42network.org/)
 
 ### 🤖 Especialización
 - **IA Generativa (LLMs & Transformers)** aplicada a salud, movilidad y educación
@@ -48,7 +69,7 @@ Diseño y lidero productos tecnológicos con propósito, conectando
 
 ## 🌱 Producto en el mundo real — bchill.net
 
-**bchill.net** es un producto digital propio, concebido como un espacio de calma,
+**[bchill.net](https://bchill.net)** es un producto digital propio, concebido como un espacio de calma,
 criterio y toma de decisiones conscientes en un entorno saturado de estímulos.
 
 No nace desde la tecnología, sino desde el **problema**:
@@ -65,17 +86,13 @@ un lugar donde se ve cómo estructuro propuestas,
 cómo convierto ideas en sistemas claros
 y cómo conecto negocio, tecnología y experiencia de usuario.
 
-Rol: **Product Owner · Product Builder**
-Estado: **producto vivo, en evolución**
-Web: https://bchill.net
-
+**Rol**: Product Owner · Product Builder &nbsp;|&nbsp; **Estado**: producto vivo, en evolución &nbsp;|&nbsp; 🌐 **[bchill.net](https://bchill.net)**
 
 ---
 
 ## 🔗 Proyectos Destacados
 
-### 🌟 Portfolio completo
-👉 https://github.com/beatriangu?tab=repositories
+### 🌟 [Portfolio completo →](https://github.com/beatriangu?tab=repositories)
 
 **Áreas de enfoque**
 - 🏥 **Salud digital** – IA aplicada a diagnóstico y soporte a decisión  
@@ -91,16 +108,12 @@ Web: https://bchill.net
 
 ---
 
-![42 Urduliz Banner](https://github.com/beatriangu/beatriangu/blob/main/42ZIP_urduliz.png?raw=true)
-
----
-
 ## 🛠️ Technical Toolkit (Product-oriented)
 
 ### 🤖 AI & Machine Learning
 <p align="left">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
   <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
@@ -133,17 +146,6 @@ Web: https://bchill.net
 
 ---
 
-## 🎓 Formación · 42 Urduliz – Cursus ZIP
-
-**Graduación**: Marzo 2025  
-**Proyecto final**: **Matcha** (AI & Backend Development)
-
-### 🗺️ Mapa de recorrido completo en 42
-
-![Mapa de recorrido 42](https://github.com/beatriangu/beatriangu/blob/main/Screenshot%20from%202025-03-10%2019-07-51.png)
-
----
-
 ## 🌟 Valores & Propósito
 
 > **Tecnología con propósito**
@@ -156,7 +158,7 @@ Web: https://bchill.net
 
 ---
 
-## 📫 Let’s Connect
+## 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bealamiquiz/" target="_blank">
@@ -170,6 +172,10 @@ Web: https://bchill.net
   <a href="https://github.com/beatriangu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://bchill.net" target="_blank">
+    <img src="https://img.shields.io/badge/bchill.net-0eb456?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -182,7 +188,7 @@ Web: https://bchill.net
 - 👥 Mentoría técnica  
 - 🌍 Proyectos de impacto social  
 
-📌 *If you're building AI-driven products and need a technical PO/PM who can bridge product, data and engineering — let’s talk.*
+📌 *If you're building AI-driven products and need a technical PO/PM who can bridge product, data and engineering — let's talk.*
 
 ---
 
@@ -193,10 +199,8 @@ Web: https://bchill.net
 ---
 
 ### 🙏 Agradecimientos
-Gracias a **42 Network**, **42 Urduliz**, **Diputación Foral de Bizkaia**, **Fundación Telefónica** y a toda la comunidad tech del País Vasco.
+Gracias a **[42 Network](https://www.42network.org/)**, **[42 Urduliz](https://42urduliz.com/)**, **[Diputación Foral de Bizkaia](https://www.bizkaia.eus/)**, **[Fundación Telefónica](https://www.fundaciontelefonica.com/)** y a toda la comunidad tech del País Vasco.
 
 ---
 
 *Last updated: March 2026*
-
-
