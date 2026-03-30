@@ -12,11 +12,9 @@
 
 ## 🎯 About Me
 
-**AI Product Owner** especializada en **IA Generativa & LLMs**, con sólida base técnica en  
-**Backend (Python/Django)**.
+**AI Product Owner** especializada en **IA Generativa & LLMs**, con sólida base técnica en **Backend (Python/Django)**.
 
-Diseño y lidero productos tecnológicos con propósito, conectando  
-**negocio, datos, tecnología y personas** para generar **impacto real**.
+Diseño y lidero productos tecnológicos con propósito, conectando **negocio, datos, tecnología y personas** para generar **impacto real**.
 
 ### 🚀 Mi trayectoria en números
 
@@ -54,7 +52,7 @@ Diseño y lidero productos tecnológicos con propósito, conectando
 
 ### 🎓 Mentora Técnica & Linker
 - **[42 Urduliz Bizkaia](https://42urduliz.com/)** – Mentoría en proyectos de **C, Python y Backend**
-- **[Bizkaia con el Talento](https://www.bizkaiatalentua.eus/)** – Conexión entre talento tecnológico y oportunidades reales
+- **[Bizkaia with the Talent](https://www.bizkaiawiththetalent.eus/es/)** – Conexión entre talento tecnológico y oportunidades reales
 
 ### 🚀 Comunidad & Ecosistema
 - **Divulgación y networking** en el ecosistema [42 Network](https://www.42network.org/)
@@ -69,22 +67,15 @@ Diseño y lidero productos tecnológicos con propósito, conectando
 
 ## 🌱 Producto en el mundo real — bchill.net
 
-**[bchill.net](https://bchill.net)** es un producto digital propio, concebido como un espacio de calma,
-criterio y toma de decisiones conscientes en un entorno saturado de estímulos.
+**[bchill.net](https://bchill.net)** es un producto digital propio, concebido como un espacio de calma, criterio y toma de decisiones conscientes en un entorno saturado de estímulos.
 
-No nace desde la tecnología, sino desde el **problema**:
-la sobrecarga, la prisa y la falta de foco en productos y procesos actuales.
+No nace desde la tecnología, sino desde el **problema**: la sobrecarga, la prisa y la falta de foco en productos y procesos actuales.
 
 En bchill aplico:
 - **Pensamiento de producto** desde el discovery hasta la entrega
 - Diseño de experiencia clara, sin ruido
 - Priorización consciente: qué construir, qué automatizar y qué no
 - Uso de tecnología (e IA) solo cuando **tiene sentido y aporta valor real**
-
-El proyecto funciona como **plataforma demostrativa**:
-un lugar donde se ve cómo estructuro propuestas,
-cómo convierto ideas en sistemas claros
-y cómo conecto negocio, tecnología y experiencia de usuario.
 
 **Rol**: Product Owner · Product Builder &nbsp;|&nbsp; **Estado**: producto vivo, en evolución &nbsp;|&nbsp; 🌐 **[bchill.net](https://bchill.net)**
 
@@ -95,16 +86,16 @@ y cómo conecto negocio, tecnología y experiencia de usuario.
 ### 🌟 [Portfolio completo →](https://github.com/beatriangu?tab=repositories)
 
 **Áreas de enfoque**
-- 🏥 **Salud digital** – IA aplicada a diagnóstico y soporte a decisión  
-- 🚗 **Movilidad inteligente** – Optimización con ML y data science  
-- 📚 **EdTech** – Plataformas educativas con IA generativa  
-- 🔧 **Backend robusto** – APIs, datos y arquitectura escalable  
+- 🏥 **Salud digital** – IA aplicada a diagnóstico y soporte a decisión
+- 🚗 **Movilidad inteligente** – Optimización con ML y data science
+- 📚 **EdTech** – Plataformas educativas con IA generativa
+- 🔧 **Backend robusto** – APIs, datos y arquitectura escalable
 
 **Tecnologías clave**
-- **IA**: LangChain, OpenAI API, Transformers, RAG, Fine-tuning  
-- **Backend & Data**: Django, Flask, PostgreSQL, SQLite, Docker  
-- **DevOps**: Git, CI/CD, GitHub Actions, Bash  
-- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript  
+- **IA**: LangChain, OpenAI API, Transformers, RAG, Fine-tuning
+- **Backend & Data**: Django, Flask, PostgreSQL, SQLite, Docker
+- **DevOps**: Git, CI/CD, GitHub Actions, Bash
+- **Frontend**: HTML5, CSS3, Bootstrap, JavaScript
 
 ---
 
@@ -150,11 +141,11 @@ y cómo conecto negocio, tecnología y experiencia de usuario.
 
 > **Tecnología con propósito**
 
-- 🤝 Colaboración y comunidad  
-- 🚀 Innovación con impacto real  
-- 📚 Aprendizaje continuo  
-- 💡 Mentoría y transferencia de conocimiento  
-- 🎯 Excelencia técnica aplicada a producto  
+- 🤝 Colaboración y comunidad
+- 🚀 Innovación con impacto real
+- 📚 Aprendizaje continuo
+- 💡 Mentoría y transferencia de conocimiento
+- 🎯 Excelencia técnica aplicada a producto
 
 ---
 
@@ -182,11 +173,11 @@ y cómo conecto negocio, tecnología y experiencia de usuario.
 
 ## 💬 Open to
 
-- 🚀 Roles como **AI Product Owner / Product Manager**  
-- 🤖 Proyectos de **IA Generativa & LLMs**  
-- 🔧 Desarrollo backend orientado a producto  
-- 👥 Mentoría técnica  
-- 🌍 Proyectos de impacto social  
+- 🚀 Roles como **AI Product Owner / Product Manager**
+- 🤖 Proyectos de **IA Generativa & LLMs**
+- 🔧 Desarrollo backend orientado a producto
+- 👥 Mentoría técnica
+- 🌍 Proyectos de impacto social
 
 📌 *If you're building AI-driven products and need a technical PO/PM who can bridge product, data and engineering — let's talk.*
 
@@ -200,12 +191,6 @@ y cómo conecto negocio, tecnología y experiencia de usuario.
 
 ### 🙏 Agradecimientos
 Gracias a **[42 Network](https://www.42network.org/)**, **[42 Urduliz](https://42urduliz.com/)**, **[Diputación Foral de Bizkaia](https://www.bizkaia.eus/)**, **[Fundación Telefónica](https://www.fundaciontelefonica.com/)** y a toda la comunidad tech del País Vasco.
-
----
-
-*Last updated: March 2026*
-
-
 
 ---
 
