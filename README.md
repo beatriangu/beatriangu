@@ -194,4 +194,4 @@ Gracias a **[42 Network](https://www.42network.org/)**, **[42 Urduliz](https://4
 
 ---
 
-*Last updated: March 2026*
+*Last updated: May 2026*
