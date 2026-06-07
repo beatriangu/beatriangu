@@ -125,13 +125,13 @@ Just building, solving and improving — every day.
 
 ---
 
-## 🗺️ Journey Map
+## 🎓 42 Urduliz Journey
 
 [![42 Journey Map](https://github.com/beatriangu/beatriangu/blob/main/Screenshot%20from%202025-03-10%2019-07-51.png)](https://42urduliz.com/)
 
 ---
 
-## 🌌 42 Urduliz Banner
+
 
 [![42 Urduliz Banner](https://github.com/beatriangu/beatriangu/blob/main/42ZIP_urduliz.png?raw=true)](https://42urduliz.com/)
 
