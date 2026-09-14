@@ -4,156 +4,152 @@
 
 # Hi 👋 I'm Bea Lamiquiz
 
-### AI Product Owner · Generative AI · Product Builder
+### Applied AI Developer · Generative AI · RAG · LLM Systems
+### Python · Django · Machine Learning · AI Product Development
 
-<p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=AI+Product+Owner+%7C+Generative+AI+%26+LLMs;Product+Builder+%7C+Backend+%26+Data+Systems;Bridging+Technology,+Product+and+People;Building+technology+with+real-world+impact&center=true&width=850&height=50&color=0eb456" />
-  </a>
-</p>
+I build **applied AI products and backend systems** that turn real-world needs and data into functional, explainable solutions.
 
----
-
-## 🌍 About Me
-
-I build AI-driven digital products connecting **product strategy, backend systems and human-centered technology**.
-
-My work sits at the intersection of:
-
-* **Generative AI**
-* **Product thinking**
-* **Backend & data systems**
-* **Real-world problem solving**
-
-Not just translating between business and engineering — but understanding both sides deeply enough to make meaningful product decisions.
+My work combines **Python development, Artificial Intelligence, backend engineering and product thinking**.
 
 ---
 
-# 🌱 Current Focus
+## 🧠 What I'm working on
 
-* 🤖 **Generative AI & LLMs** applied to health, mobility and education
-* 🚀 **AI Product Ownership** — from prompt engineering to product strategy
-* 🔧 **Backend-aware product design** — APIs, architecture and scalable systems
-* 🌿 Building technology that creates **clarity instead of noise**
-
----
-
-# 🌐 Featured Product — bchill.net
-
-## https://bchill.net
-
-**bchill** is a personal digital product designed around calm, focus and intentional decision-making in an overstimulated world.
-
-It didn’t start from technology.
-It started from a real human problem.
-
-Through bchill I apply:
-
-* Product discovery and prioritization
-* Human-centered digital experiences
-* Intentional product thinking
-* AI and automation only when they genuinely add value
-* Clear systems over unnecessary complexity
-
-> *A product where strategy, technology and intentional design come together.*
-
-### Role
-
-**Product Owner · Product Builder**
+- 🤖 **Generative AI & LLM systems**
+- 🔎 **Retrieval-Augmented Generation (RAG)**
+- 🧩 **AI orchestration, validation and structured outputs**
+- 📊 **Machine Learning & data-driven systems**
+- 🔧 **Python / Django backend development**
+- 🧪 **Testing, debugging and root-cause analysis**
+- 🤝 **AI Product Development — connecting technology, users and business**
 
 ---
 
-# 🔗 Selected Work
+# 🚀 Featured Projects
 
-| Area               | Focus                                                   |
-| :----------------- | :------------------------------------------------------ |
-| 🏥 Health AI       | Decision support systems and AI-assisted healthcare     |
-| 🚗 Smart Mobility  | ML-driven optimization and intelligent data systems     |
-| 📚 EdTech          | Generative AI applied to learning experiences           |
-| 🔧 Backend Systems | APIs, scalable architectures and data-oriented products |
+## 🥗 NutriPrompt — Applied Generative AI
 
-### 🌟 [Explore my GitHub repositories →](https://github.com/beatriangu?tab=repositories)
+An AI-powered nutritional planning platform that combines specialized knowledge, retrieval and controlled LLM generation.
+
+**Architecture & capabilities**
+
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- OCR
+- Structured JSON outputs
+- Business-rule validation
+- Multi-provider LLM orchestration
+- Gemini + OpenAI
+- Corrective retry
+- Provider fallback
+- Automated testing
+- Debugging and validation
+
+**Stack**
+
+`Python` · `Django` · `RAG` · `LLMs` · `Gemini` · `OpenAI` · `OCR` · `REST APIs`
 
 ---
 
-# 🛠️ Core Stack
+## 🧠 Longitudinal Intelligence Platform / ParkinGuide
 
-### 🤖 AI & Generative AI
+A digital-health product exploring how longitudinal data can be transformed into contextual and useful information.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Transformers-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" />
-</p>
+ParkinGuide is its first use case, focused on longitudinal functional monitoring in Parkinson's.
+
+The system combines:
+
+- Longitudinal data processing
+- Contextual explainable intelligence
+- Machine Learning
+- Baseline-relative modelling
+- Functional trend analysis
+- Data visualization
+
+A Random Forest regression model is used as one implementation within the platform, selected according to the characteristics of the problem and data.
+
+**Stack**
+
+`Python` · `Django` · `Pandas` · `NumPy` · `scikit-learn` · `Machine Learning` · `Chart.js`
+
+---
+
+## 💜 Matchito — Full-Stack Real-Time Platform
+
+A full-stack real-time platform developed end-to-end, covering backend architecture, relational data, authentication and real-time communication.
+
+**Key capabilities**
+
+- Flask MVC backend
+- PostgreSQL relational database
+- JWT authentication
+- User and profile management
+- Matching logic
+- Geolocation and distance
+- Real-time private chat
+- Persistent message history
+- WebSocket communication
+- Dockerized architecture
+- NGINX reverse proxy
+
+**Stack**
+
+`Python` · `Flask` · `PostgreSQL` · `Flask-SocketIO` · `Docker` · `NGINX` · `JavaScript`
+
+---
+
+# 🛠️ Tech Stack
+
+### 🤖 AI & Machine Learning
+
+`Generative AI` · `LLMs` · `RAG` · `Prompt Engineering` · `Machine Learning`  
+`OpenAI` · `Gemini` · `scikit-learn` · `Pandas` · `NumPy` · `OCR`
 
 ### 🔧 Backend & Data
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
-</p>
+`Python` · `Django` · `Flask` · `REST APIs` · `PostgreSQL` · `SQLite` · `JSON`
+
+### ⚙️ Engineering
+
+`Git` · `GitHub` · `Docker` · `NGINX` · `HTML` · `CSS` · `JavaScript`
+
+### 🧪 Quality & Problem Solving
+
+`Automated Testing` · `Validation` · `Debugging` · `Root-Cause Analysis` · `Fallback Strategies`
 
 ---
 
-# 🎓 42 Urduliz Journey
+# 🎓 42 Urduliz
 
-<p align="left">
-  <a href="https://42urduliz.com/" target="_blank">
-    <img src="https://img.shields.io/badge/42-Urduliz_Bizkaia-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Urduliz" />
-  </a>
-  &nbsp;
-  <a href="https://www.42network.org/" target="_blank">
-    <img src="https://img.shields.io/badge/42-Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Network" />
-  </a>
-</p>
+### Learning by building
 
-### 🚀 Learning by building
+My experience at 42 strengthened the way I approach software development:
 
-| 📚 Learning Hours | 💻 Projects | 🤝 Peer Reviews |  🎓 Graduation |
-| :---------------: | :---------: | :-------------: | :------------: |
-|     **3,255+**    |    **23**   |     **100+**    | **March 2025** |
+**autonomous learning · problem solving · peer collaboration · ownership · continuous iteration**
 
-The 42 experience shaped how I approach technology:
-autonomous learning, peer collaboration, ownership and continuous iteration.
-
-No traditional classes.
-Just building, solving and improving — every day.
+I currently contribute to the **42 Urduliz – Fundación Telefónica** community as a **Technical Mentor & Linker**, combining technical mentoring with communication and connections between talent, companies and the technology ecosystem.
 
 ---
 
-## 🎓 42 Urduliz Journey
+# 🌱 Continuous Learning
 
-[![42 Journey Map](https://github.com/beatriangu/beatriangu/blob/main/Screenshot%20from%202025-03-10%2019-07-51.png)](https://42urduliz.com/)
+I continuously explore new AI architectures and evaluate how they can create practical value in real products.
 
----
+Current areas of exploration include:
 
-
-
-[![42 Urduliz Banner](https://github.com/beatriangu/beatriangu/blob/main/42ZIP_urduliz.png?raw=true)](https://42urduliz.com/)
+`Agentic AI` · `AI Agents` · `RAG` · `Multi-Agent Systems` · `Applied AI`
 
 ---
 
-### Final Project
+# 🌐 Product Perspective
 
-**Matcha** — AI & Backend Development
+My previous experience in business management, clients and product development gives me a perspective that goes beyond implementation.
 
----
+I approach AI from three connected questions:
 
-# 🤝 Community & Mentoring
-
-### 🎓 Technical Mentor & Linker
-
-* Mentoring in **C, Python and Backend projects**
-* Supporting collaborative learning environments
-* Connecting talent, technology and opportunities
-
-### 🌍 Ecosystem & Community
-
-Active participation in the **42 Network ecosystem** and technology communities.
+**What problem are we solving?**  
+**How should we build it?**  
+**What real value does it create?**
 
 ---
 
@@ -171,29 +167,11 @@ Active participation in the **42 Network ecosystem** and technology communities.
   <a href="https://github.com/beatriangu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  &nbsp;
-  <a href="https://bchill.net" target="_blank">
-    <img src="https://img.shields.io/badge/bchill.net-0eb456?style=for-the-badge&logo=safari&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-# 💡 Philosophy
-
-> Technology should create clarity, not noise.
-
-I believe in:
-
-* Human-centered products
-* AI applied with intention
-* Technology with purpose
-* Continuous learning
-* Community-driven growth
-
----
-
 <p align="center">
-  <i>Building with AI, product thinking and human-centered technology 🌿</i>
+  <b>Applied AI · AI Product · Python · Building technology for real-world problems</b>
 </p>
 
