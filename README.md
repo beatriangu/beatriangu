@@ -4,156 +4,278 @@
 
 # Hi 👋 I'm Bea Lamiquiz
 
-### Applied AI Developer · Generative AI · RAG · LLM Systems
+## Applied AI Developer · Generative AI · RAG · LLM Systems
 ### Python · Django · Machine Learning · AI Product Development
 
-I build **applied AI products and backend systems** that turn real-world needs and data into functional, explainable solutions.
-
-My work combines **Python development, Artificial Intelligence, backend engineering and product thinking**.
-
----
-
-## 🧠 What I'm working on
-
-- 🤖 **Generative AI & LLM systems**
-- 🔎 **Retrieval-Augmented Generation (RAG)**
-- 🧩 **AI orchestration, validation and structured outputs**
-- 📊 **Machine Learning & data-driven systems**
-- 🔧 **Python / Django backend development**
-- 🧪 **Testing, debugging and root-cause analysis**
-- 🤝 **AI Product Development — connecting technology, users and business**
+<p align="left">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Applied+AI+%7C+Generative+AI+%26+LLMs;RAG+%7C+Python+%7C+Django+%7C+Machine+Learning;Building+AI+products+for+real-world+problems;Connecting+Technology,+Product+and+People&center=true&width=850&height=50&color=0eb456" />
+  </a>
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 👩‍💻 About Me
 
-## 🥗 NutriPrompt — Applied Generative AI
+I build **Applied AI products and backend systems** that transform real-world needs and data into functional, explainable and useful solutions.
 
-An AI-powered nutritional planning platform that combines specialized knowledge, retrieval and controlled LLM generation.
+My work combines **Python, Django, Generative AI, RAG, LLMs, Machine Learning and data**, with a strong focus on turning AI capabilities into working products.
 
-**Architecture & capabilities**
+I work across the development lifecycle — from understanding the problem and designing the solution to implementation, integration, testing, validation and debugging.
 
-- Retrieval-Augmented Generation (RAG)
+My previous experience in **business management, product, clients and decision-making** gives me an additional perspective: I understand technology not only as an engineering challenge, but as a tool that must create real value.
+
+### Currently focused on
+
+`Applied AI` · `Generative AI` · `RAG` · `LLM Systems` · `Machine Learning` · `Python` · `Django` · `Backend` · `AI Product`
+
+---
+
+# 🚀 Featured AI & Software Projects
+
+## 🥗 NutriPrompt
+### Generative AI · RAG · LLM Orchestration
+
+An Applied AI platform for intelligent nutritional planning that combines specialized knowledge, retrieval, controlled LLM generation and deterministic validation.
+
+Rather than relying on a single prompt, NutriPrompt separates **retrieval, inference, validation, domain logic and presentation**.
+
+### 🔍 What I built
+
+- Retrieval-Augmented Generation (**RAG**)
 - Prompt Engineering
-- OCR
-- Structured JSON outputs
+- Domain-specific knowledge retrieval
+- OCR processing
+- Structured JSON generation
 - Business-rule validation
 - Multi-provider LLM orchestration
-- Gemini + OpenAI
-- Corrective retry
-- Provider fallback
+- Gemini as primary provider
+- OpenAI fallback
+- Corrective retry mechanisms
+- Provider fallback strategies
 - Automated testing
-- Debugging and validation
+- Debugging and root-cause analysis
+- Observability capabilities
 
-**Stack**
+### 🛠 Stack
 
-`Python` · `Django` · `RAG` · `LLMs` · `Gemini` · `OpenAI` · `OCR` · `REST APIs`
+`Python` · `Django` · `RAG` · `LLMs` · `Gemini` · `OpenAI` · `OCR` · `REST APIs` · `JSON`
+
+> **Applied AI beyond prompting:** retrieval → generation → validation → actionable output.
 
 ---
 
 ## 🧠 Longitudinal Intelligence Platform / ParkinGuide
+### Machine Learning · Longitudinal Data · Explainable Context
 
 A digital-health product exploring how longitudinal data can be transformed into contextual and useful information.
 
-ParkinGuide is its first use case, focused on longitudinal functional monitoring in Parkinson's.
+**ParkinGuide** is its first use case, focused on longitudinal functional monitoring in Parkinson's.
 
-The system combines:
+The platform is designed as a **non-diagnostic system** and does not provide treatment recommendations.
+
+### 🔍 What I built
 
 - Longitudinal data processing
-- Contextual explainable intelligence
-- Machine Learning
 - Baseline-relative modelling
+- Contextual explainable intelligence
 - Functional trend analysis
+- Data preparation and exploration
+- Machine Learning modelling
 - Data visualization
+- Privacy-oriented architecture
 
-A Random Forest regression model is used as one implementation within the platform, selected according to the characteristics of the problem and data.
+Machine Learning techniques are selected according to the characteristics of the data and the problem.
 
-**Stack**
+ParkinGuide currently includes a **Random Forest Regressor** as one concrete implementation within the wider intelligence architecture.
 
-`Python` · `Django` · `Pandas` · `NumPy` · `scikit-learn` · `Machine Learning` · `Chart.js`
+### 📊 Current model results
+
+`MAE: 3.59` · `RMSE: 4.84` · `R²: 0.946`
+
+### 🛠 Stack
+
+`Python` · `Django` · `Pandas` · `NumPy` · `scikit-learn` · `Machine Learning` · `SQLite` · `Chart.js`
+
+> **From longitudinal data to contextual intelligence.**
 
 ---
 
-## 💜 Matchito — Full-Stack Real-Time Platform
+## 💜 Matchito
+### Full-Stack · Backend · PostgreSQL · Real-Time Systems
 
-A full-stack real-time platform developed end-to-end, covering backend architecture, relational data, authentication and real-time communication.
+A full-stack real-time platform developed end-to-end, covering backend architecture, relational data modelling, authentication, matching logic and real-time communication.
 
-**Key capabilities**
+### 🔍 What I built
 
 - Flask MVC backend
-- PostgreSQL relational database
-- JWT authentication
-- User and profile management
-- Matching logic
+- User registration and authentication
+- JWT-based login
+- Password recovery with one-use tokens
+- bcrypt password hashing
+- User CRUD
+- Image upload and validation
+- Interests and matching logic
+- Likes and matches
 - Geolocation and distance
-- Real-time private chat
+- Private real-time chat
 - Persistent message history
+- Typing indicators
+- Real-time notifications
 - WebSocket communication
+- PostgreSQL relational data model
+- Database indexes
 - Dockerized architecture
 - NGINX reverse proxy
+- Persistent volumes
+- Environment-based configuration
+- Health checks and restart policies
 
-**Stack**
+### 🛠 Stack
 
-`Python` · `Flask` · `PostgreSQL` · `Flask-SocketIO` · `Docker` · `NGINX` · `JavaScript`
+`Python` · `Flask` · `PostgreSQL` · `Flask-SocketIO` · `Docker` · `NGINX` · `JavaScript` · `HTML` · `CSS`
+
+> **A complete backend and real-time product built from architecture to deployment.**
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠️ Technical Stack
 
-### 🤖 AI & Machine Learning
+### 🤖 Artificial Intelligence
 
-`Generative AI` · `LLMs` · `RAG` · `Prompt Engineering` · `Machine Learning`  
-`OpenAI` · `Gemini` · `scikit-learn` · `Pandas` · `NumPy` · `OCR`
+`Generative AI` · `LLMs` · `RAG` · `Prompt Engineering` · `Machine Learning` · `OCR`
 
-### 🔧 Backend & Data
+### 🧠 AI Providers & ML
 
-`Python` · `Django` · `Flask` · `REST APIs` · `PostgreSQL` · `SQLite` · `JSON`
+`OpenAI` · `Gemini` · `scikit-learn`
+
+### 📊 Data
+
+`Pandas` · `NumPy` · `PostgreSQL` · `SQLite` · `JSON`
+
+### 🔧 Backend
+
+`Python` · `Django` · `Flask` · `REST APIs` · `Flask-SocketIO`
 
 ### ⚙️ Engineering
 
-`Git` · `GitHub` · `Docker` · `NGINX` · `HTML` · `CSS` · `JavaScript`
+`Git` · `GitHub` · `Docker` · `NGINX`
 
-### 🧪 Quality & Problem Solving
+### 🌐 Web
 
-`Automated Testing` · `Validation` · `Debugging` · `Root-Cause Analysis` · `Fallback Strategies`
+`HTML` · `CSS` · `JavaScript`
 
----
+### 🧪 Quality & Reliability
 
-# 🎓 42 Urduliz
-
-### Learning by building
-
-My experience at 42 strengthened the way I approach software development:
-
-**autonomous learning · problem solving · peer collaboration · ownership · continuous iteration**
-
-I currently contribute to the **42 Urduliz – Fundación Telefónica** community as a **Technical Mentor & Linker**, combining technical mentoring with communication and connections between talent, companies and the technology ecosystem.
+`Automated Testing` · `Validation` · `Debugging` · `Root-Cause Analysis` · `Corrective Retry` · `Fallback Strategies`
 
 ---
 
-# 🌱 Continuous Learning
+# 🎓 My 42 Urduliz Journey
 
-I continuously explore new AI architectures and evaluate how they can create practical value in real products.
+<p align="left">
+  <a href="https://42urduliz.com/" target="_blank">
+    <img src="https://img.shields.io/badge/42-Urduliz_Bizkaia-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Urduliz" />
+  </a>
+  &nbsp;
+  <a href="https://www.42network.org/" target="_blank">
+    <img src="https://img.shields.io/badge/42-Network-000000?style=for-the-badge&logo=42&logoColor=white" alt="42 Network" />
+  </a>
+</p>
 
-Current areas of exploration include:
+### 🚀 Learning by building
+
+42 has been a key part of my journey into software development.
+
+Its project-based, peer-to-peer model strengthened the way I approach technology today:
+
+**build → test → fail → debug → understand → improve**
+
+| 📚 Learning Hours | 💻 Projects | 🤝 Peer Reviews |
+| :---------------: | :---------: | :-------------: |
+|     **3,255+**    |    **23**   |     **100+**    |
+
+Beyond programming, 42 taught me to work through complex problems autonomously, collaborate with peers, review other people's work and keep learning when there is no predefined solution.
+
+**Problem Solving · Autonomous Learning · Peer Collaboration · Ownership · Continuous Iteration**
+
+---
+
+## 🗺️ My 42 Journey
+
+[![42 Journey Map](https://github.com/beatriangu/beatriangu/blob/main/Screenshot%20from%202025-03-10%2019-07-51.png)](https://42urduliz.com/)
+
+---
+
+[![42 Urduliz Banner](https://github.com/beatriangu/beatriangu/blob/main/42ZIP_urduliz.png?raw=true)](https://42urduliz.com/)
+
+---
+
+# 🤝 Technical Mentoring & Community
+
+## Technical Mentor & Linker · 42 Urduliz – Fundación Telefónica
+
+I remain actively involved in the 42 Urduliz community, combining technology, mentoring and ecosystem building.
+
+My current contribution includes:
+
+- Technical mentoring in **Python**
+- Supporting practical and collaborative learning
+- Problem-solving support
+- Connecting talent, companies and the technology community
+- Networking and communication across the ecosystem
+
+For me, 42 is not only where I strengthened my technical foundations.
+
+**It remains part of how I learn, collaborate and contribute to the technology community.**
+
+---
+
+# 🌱 Continuous Learning & AI Research
+
+Artificial Intelligence evolves quickly, so continuous research and experimentation are part of the way I work.
+
+I explore emerging architectures and evaluate them against a simple question:
+
+**Does this improve the product or solve the problem better?**
+
+Current areas of exploration:
 
 `Agentic AI` · `AI Agents` · `RAG` · `Multi-Agent Systems` · `Applied AI`
 
----
-
-# 🌐 Product Perspective
-
-My previous experience in business management, clients and product development gives me a perspective that goes beyond implementation.
-
-I approach AI from three connected questions:
-
-**What problem are we solving?**  
-**How should we build it?**  
-**What real value does it create?**
+I recently completed **IBM SkillsBuild — Make Agentic AI Work for You**, expanding my understanding of AI agents, RAG and multi-agent approaches.
 
 ---
 
-# 📫 Connect
+# 🌐 Technology + Product + Business
+
+My path into AI is not purely technical.
+
+Before moving into software development, I spent many years working across **business management, commercial strategy, finance, clients, teams and product**.
+
+Today, I combine that experience with software and AI development.
+
+It means I naturally approach technology through three connected questions:
+
+### 🎯 What problem are we solving?
+
+### ⚙️ How should we build it?
+
+### 📈 What real value does it create?
+
+For me, successful AI is not simply about choosing the most powerful model.
+
+It is about designing the right system around the problem.
+
+---
+
+# 🔗 Explore My Work
+
+### ⭐ [Explore all my GitHub repositories →](https://github.com/beatriangu?tab=repositories)
+
+---
+
+# 📫 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bealamiquiz/" target="_blank">
@@ -167,11 +289,29 @@ I approach AI from three connected questions:
   <a href="https://github.com/beatriangu">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  &nbsp;
+  <a href="https://bchill.net" target="_blank">
+    <img src="https://img.shields.io/badge/bchill.net-0eb456?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
 </p>
 
 ---
 
+# 💡 Philosophy
+
+> **Technology should create clarity, not noise.**
+
+I believe in:
+
+**Human-centered technology · Applied AI with purpose · Building before theorizing · Continuous learning · Real-world impact**
+
+---
+
 <p align="center">
-  <b>Applied AI · AI Product · Python · Building technology for real-world problems</b>
+  <b>Applied AI · Python · RAG · LLM Systems · Machine Learning · AI Product</b>
+</p>
+
+<p align="center">
+  <i>Building AI systems for real-world problems.</i>
 </p>
 
